@@ -4,7 +4,7 @@ This repository provides MATLAB scripts, helper functions, and analysis code for
 
 All scripts reproduce the analyses and figures presented in our manuscript:
 
-> Asadpour, A., Azimi, A., & Wong-Lin, K. (2025). *Limitations of Variational Laplace-based Dynamic Causal Modelling for Multistable Cortical Circuits.*
+> Asadpour, A., Azimi, A., & Wong-Lin, K. (2026). *Limitations of Variational Laplace-based Dynamic Causal Modelling for Multistable Cortical Circuits.* Neuroinformatics.*
 
 ---
 
