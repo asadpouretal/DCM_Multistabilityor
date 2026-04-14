@@ -188,7 +188,7 @@ Each figure folder includes its own helper functions for plotting and analysis.
 
 If you use this repository, please cite:
 
-> Asadpour, A., Azimi, A., & Wong-Lin, K. (2025). *Limitations of Variational Laplace-based Dynamic Causal Modelling for Multistable Cortical Circuits.* Neuroinformatics.
+> Asadpour, A., Azimi, A., & Wong-Lin, K. (2026). *Limitations of Variational Laplace-based Dynamic Causal Modelling for Multistable Cortical Circuits.* Neuroinformatics.
 
 ---
 
