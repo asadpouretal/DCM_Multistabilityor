@@ -79,7 +79,7 @@ DCM_Multistability/
 ### Setup
 1. Clone or download this repository:
    ```bash
-   git clone https://github.com/asadpouretal/DCM_Multistability.git
+   git clone https://github.com/asadpouretal/DCM_Multistabilityor.git
    ```
 2. Add the relevant folders to your MATLAB path:
    ```matlab
